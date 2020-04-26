@@ -30,7 +30,7 @@ A Rainmeter Skin set heavily inspired by the system information widgets from **[
 ![ShortcutBar Skin](./ReadmeFiles/ShortcutBar.png)
 
 * Shows icons for each available ShortcutPanel.
-* Expands out to 5 icons by default, with icon spacing set by formula.
+* Shows 3 icons by default, with icon spacing set by formula.
 
 ### ShortcutPanel:
 
