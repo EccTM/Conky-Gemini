@@ -17,6 +17,7 @@ purple=194,89,240
 pink=243,127,151
 googleBlue=5,80,245
 googleRed=255,45,90
+
 ; Default Colors
 background=40,42,54
 lbackground=65,68,88
@@ -25,10 +26,6 @@ dbackground=29,31,40
 ; Font Options
 BebasNeue=Bebas Neue
 GoogleSans=Google Sans
-
-;XXXXX OUTDATED VARIABLES? XXXXX
-text=#coolWhite#
-shadow=#shadowColor#
 
 ; Color Scheme - Generic
 font=#GoogleSans#
@@ -56,7 +53,7 @@ cpuGradientColor2=#lightBackgroundColor#,0
 ; Color Scheme - Media Player
 mediaPlayerFont=#font#
 mediaPlayerFontColor=#fontColor#
-mediaPlayerFontHighlightColor=#teal#
+mediaPlayerFontHighlightColor=#fontHighlightColor#
 mediaPlayerIconColor=#teal#
 mediaPlayerIconHighlightColor=#white#
 mediaPlayerBackgroundColor=#lightBackgroundColor#
@@ -106,8 +103,15 @@ sysUsageFontHighlightColor=#fontHighlightColor#
 sysUsageLineColor=#white#
 sysUsageCPUColor=#orange#
 sysUsageRAMColor=#blue#
-
 sysUsageBackgroundColor=#lightBackgroundColor#
+
+; Color Scheme - SystemUsageDrives
+sysUsageDriveFont=#font#
+sysUsageDriveFontColor=#fontColor#
+sysUsageDriveLineColor=#white#
+sysUsageDriveAColor=#teal#
+sysUsageDriveBColor=#pink#
+sysUsageDriveBackgroundColor=#lightBackgroundColor#
 
 ; Color Scheme - WeatherDefault
 weatherFont=#GoogleSans#
